@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CostoGasolina</string>
+    <string name="calcular_monto">Calcular Monto de Gasolina</string>
+    <string name="ingresar_campos">Ingresa los valores de los siguientes campos:</string>
+    <string name="gasolina_litro">Gasolina por Litro</string>
+    <string name="litros">Litros</string>
+    <string name="propina">Propina</string>
+    <string name="ingresa_gasolina"> Precio de litro de Gasolina</string>
+    <string name="monto_total">Monto Total: %s</string>
+    <string name="agregar_propina">¿Deseas agregar la propina?</string>
+</resources>
